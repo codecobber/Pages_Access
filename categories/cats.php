@@ -1,0 +1,1 @@
+<?php $cats = array("coms2"=>array('admin'),"404"=>array('admin'),"communications"=>array('admin'),"index"=>array('admin'),"t6"=>array('admin'),"t7"=>array('admin'),"test1"=>array('admin'),"test3"=>array('admin'),"test4"=>array('admin'),"test5"=>array('admin'),"page404"=>array('admin'),"admin"=>array('admin')); ?>

@@ -1,17 +1,19 @@
 # Pages_Access
 User / page admin plugin for Get Simple CMS
 
-Pages Access
+**Pages Access**
 Restrict the backend page access of GS to logged in users. Displaying of content would depend on which groups or pages they have been assigned access to. eg: the pages tab would only display a list of pages that they are authorised to see and edit.
 
-Simple use
+**Simple use**
 The plugin use is fairly simple, most of the time it's self explanatory. An example task would be the admin selecting a user and then a page followed by clicking the add or remove button as required. The plugin will also provide warning or success notification when a user conducts a task.
 
-Functions include:
+**Functions include:**
 - adding/removing a user to a page
 - adding/removing a user to a group
 - adding/removing a group to page
-Install Instructions:
+
+
+**Install Instructions:*
 
 Download and unzip(unpack) the plugin.
 
